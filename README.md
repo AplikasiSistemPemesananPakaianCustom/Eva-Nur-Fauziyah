@@ -1,6 +1,6 @@
-<h3 align="center">SISTEM PEMESANAN PAKAIAN CUSTOM STUDI KASUS KONVEKSI D'JAIT<br> MENGGUNAKAN FRAMEWORK CODEIGNITER(SUB MODUL : Halaman Admin)</h3>
+<h3 align="center">SISTEM PEMESANAN PAKAIAN CUSTOM STUDI KASUS KONVEKSI D'JAIT<br> MENGGUNAKAN FRAMEWORK CODEIGNITER<br>(SUB MODUL : Halaman Admin)</h3>
 
-Sistem Pemesanan Pakaian Custom adalah sebuah aplikasi untuk mempermudah pemesanan pakaian secara custom pada Konveksi D'Jait dengan sub modul halaman admin. Dengan adanya sistem ini, pelanggan yang diluar kota dapat memesan pakaian secara custom tanpa dibatasi tempat dan waktu.
+Custom Apparel Booking System is an application to facilitate ordering custom clothing on a Convection D'Jait with sub module admin page. With this system, customers outside the city can order custom clothing without being limited space and time
 
 ## Pre Requisite
 **Software**
@@ -10,7 +10,7 @@ Sistem Pemesanan Pakaian Custom adalah sebuah aplikasi untuk mempermudah pemesan
 
 
 Hardware
-* Processor             :Intel® core™i3 
+* Processor             :   Intel® core™i3 
 * Memory	            :	4 GB
 * Monitor	            :	LCD 14,1 Inchi
 * Mouse dan keyboard	:	Standard
